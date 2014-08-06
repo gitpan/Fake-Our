@@ -8,7 +8,7 @@ package Fake::Our;
 # Copyright (c) 2014 INABA Hitoshi <ina@cpan.org>
 ######################################################################
 
-$Fake::Our::VERSION = 0.01;
+$Fake::Our::VERSION = 0.02;
 
 use 5.00503;
 # use strict; # since import() use $^H
@@ -85,6 +85,10 @@ Fake::Our can't lvalue our, like:
 =item * L<Migrating scripts back to Perl 5.005_03|http://www.perlmonks.org/?node_id=289351> - PerlMonks
 
 =item * L<Goodnight, Perl 5.005|http://www.oreillynet.com/onlamp/blog/2007/11/goodnight_perl_5005.html> - ONLamp.com
+
+=item * L<Perl 5.005_03 binaries|http://guest.engelschall.com/~sb/download/win32/> - engelschall.com
+
+=item * L<Welcome to CP5.5.3AN|http://cp5.5.3an.barnyard.co.uk/> - cp5.5.3an.barnyard.co.uk
 
 =item * L<japerl|http://search.cpan.org/dist/japerl/> - CPAN
 

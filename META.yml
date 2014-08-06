@@ -1,7 +1,7 @@
 --- #YAML:1.0
-name: Fake::Our
+name: Fake-Our
 abstract: Fake 'our' support for perl 5.00503
-version: 0.01
+version: 0.02
 author:
   - INABA Hitoshi <ina@cpan.org>
 license: perl
