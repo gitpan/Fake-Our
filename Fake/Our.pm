@@ -8,7 +8,7 @@ package Fake::Our;
 # Copyright (c) 2014 INABA Hitoshi <ina@cpan.org>
 ######################################################################
 
-$Fake::Our::VERSION = 0.02;
+$Fake::Our::VERSION = 0.03;
 
 use 5.00503;
 # use strict; # since import() use $^H
@@ -38,7 +38,7 @@ __END__
 
 =head1 NAME
 
-  Fake::Our - Fake 'our' support for perl 5.00503
+Fake::Our - Fake 'our' support for perl 5.00503
 
 =head1 SYNOPSIS
 
