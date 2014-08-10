@@ -1,10 +1,7 @@
 use 5.00503;
 use strict;
-# use warnings;
-use Test::Simple tests => 4;
-# use Strict::Perl 2014.04; $::VERSION = 0.01;
+use Test::Simply tests => 4;
 use Fake::Our;
-# use Strict::Perl 2014.04; $::VERSION = 0.01;
 
 # avoid: Use of reserved word "our" is deprecated
 BEGIN {

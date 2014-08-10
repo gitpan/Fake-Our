@@ -8,7 +8,7 @@ package Fake::Our;
 # Copyright (c) 2014 INABA Hitoshi <ina@cpan.org>
 ######################################################################
 
-$Fake::Our::VERSION = 0.03;
+$Fake::Our::VERSION = 0.04;
 
 use 5.00503;
 # use strict; # since import() use $^H

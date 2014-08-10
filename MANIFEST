@@ -5,7 +5,7 @@ pMakefile.PL
 MANIFEST
 README
 META.yml
-Test/Simple.pm
+Test/Simply.pm
 t/001_our_scalar.t
 t/002_our_array.t
 t/003_our_hash.t
